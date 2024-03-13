@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun Ajjarapu
 - 👀 I’m interested in Augmented Reality (AR, VR), Backend Development, and Computer Systems.
-- 🌱 I’m currently studying at the University of Texas at Austin, and will graduate with a BS in Computer Science by May 2025.
+- 🌱 I’m currently studying at the University of Texas at Austin, and will graduate with a BS in Computer Science by May 2026.
 - 📫 Feel free to contact me through my email at: tarun.ajjarapu@utexas.edu
 
 <!--
